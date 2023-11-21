@@ -9,6 +9,7 @@
     "@markdoc/markdoc": "latest",
     "@markdoc/next.js": "latest",
     "next": "latest",
+    "nodemon": "^3.0.1",
     "prismjs": "latest",
     "react": "latest",
     "react-dom": "latest"
